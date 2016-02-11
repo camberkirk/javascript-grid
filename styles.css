@@ -1,0 +1,17 @@
+.container{
+  width:500px;
+  height:500px;
+}
+.row{
+  display:inline-block;
+  margin-right:1px;
+}
+.column{
+    width: 20px;
+    height: 20px;
+    margin-bottom:1px;
+    background-color:blue;
+}
+.newgrid{
+  
+}
